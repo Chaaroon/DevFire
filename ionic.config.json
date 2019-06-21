@@ -1,5 +1,7 @@
 {
   "name": "devFire",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
